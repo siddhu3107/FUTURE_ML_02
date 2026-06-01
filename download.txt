@@ -1,0 +1,15 @@
+__pycache__/
+*.joblib
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+.vscode/
+.DS_Store
+*.log
